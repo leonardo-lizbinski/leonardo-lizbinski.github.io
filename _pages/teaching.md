@@ -8,14 +8,45 @@ redirect_from:
 
 Brown Medical School
 ======
-* **(BIOL6710: Innovation and Entrepreneurship in Modern Medicine)[https://drive.google.com/file/d/1uEsBReocdE0Q5GaQrs7J8FA_FuntQuqe/view]**
+* **BIOL6710: Innovation and Entrepreneurship in Modern Medicine**
   * _FOUNDER and Course Leader, Spring 2021_
-  * Faculty Adviser: Martin Weinstock MD PhD (Syllabus)[https://drive.google.com/file/d/1uEsBReocdE0Q5GaQrs7J8FA_FuntQuqe/view]
-  * Course Description: This course aims to introduce Brown medical students to the core principles and practice of innovation and entrepreneurship in the context of modern medicine. The landscape of medicine is constantly innovating and adapting to new unmet medical needs. The challenges that physicians and innovators encounter every day are critical to understand. We encourage students to think outside-the-box and deeply about potential solutions within specific fields of medicine and healthcare. Each session, we will examine one new medical challenge and explore how talented entrepreneurs are addressing these demands in real-world settings. We will investigate and discuss the structure of each healthcare system to learn more about their intricate functions (from public health to medicine and business) and explore potential routes for innovation. This will be especially helpful for those who want to learn more about healthcare systems, design innovative solutions, or even become an entrepreneur in the future.
-
 
 Yale School of Management
 ======
+* **MGT631: Public Health Entrepreneurship and Intrapreneurship**
+  * _Teaching Fellow (TF), Fall 2019_
 
-Yale School of Management
+* **MGT505: Intro to Marketing Management**
+  * _Class Captain, Fall 2018_
+
+Brown University
 ======
+* **ENGN0090: Management of Nonprofit and Industrial Organizations**
+  * _Teaching Assistant (TA), Fall 2016, Fall 2017_
+
+* **ENGN0130: Appropriate Technology**
+  * _Teaching Assistant (TA), Fall 2017_
+
+* **ENGN0930A: The Engineer's Burden: Why Changing the World is Difficult**
+  * _Teaching Assistant (TA), Spring 2017, Spring 2018_
+
+* **ENGN0900: Managerial Decision Making**
+  * _Teaching Assistant (TA), Spring 2018_
+
+* **APMA0340: Methods of Applied Mathematics I + II**
+  * _Teaching Assistant (TA), Spring 2017, Spring 2018_
+
+* **APMA1650: Statistical Inference I**
+  * _Teaching Assistant (TA), Fall 2017_
+
+* **CSCI1800: Cybersecurity and International Relations**
+  * _Teaching Assistant (TA), Spring 2018_
+
+* **BIOL0200: The Foundations of Living Systems**
+  * _Individual Tutor, Spring 2017_
+
+* **PHYS0040: Basic Physics**
+  * _Individual Tutor, Fall 2017_
+
+
+
