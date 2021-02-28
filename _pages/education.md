@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 * [M.D. Candidate](https://medical.brown.edu/), The Warren Alpert Medical School of Brown University
 * [M.P.H. in Health Care Management](https://publichealth.yale.edu/education/degrees/mph/hcm/), Yale University, Yale School of Public Health
   * Yale Thorne Prize for Social Innovation in Health 1st Place Team Winner
