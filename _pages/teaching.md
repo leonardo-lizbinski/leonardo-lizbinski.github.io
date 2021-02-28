@@ -19,7 +19,15 @@ Yale School of Management
 * **MGT505: Intro to Marketing Management**
   * Class Captain, [Fall 2018](https://yale.instructure.com/courses/38711/files/2257001/download?verifier=5QLpmmlJHrrsBZghDAZutOVSXOZHMFuJBAMeMMzU&wrap=1)
 
-Brown University
+Brown Graduate Level
+======
+* **APMA1650: Statistical Inference I**
+  * Teaching Assistant (TA), [Fall 2017](https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201610&subj_code_in=APMA&crse_numb_in=1650)
+
+* **CSCI1800: Cybersecurity and International Relations**
+  * Teaching Assistant (TA), [Spring 2018](http://cs.brown.edu/courses/csci1800/)
+
+Brown Undergraudate Level
 ======
 * **ENGN0090: Management of Nonprofit and Industrial Organizations**
   * Teaching Assistant (TA), [Fall 2016](https://canvas.brown.edu/files/60491456/download?download_frd=1), [Fall 2017](https://canvas.brown.edu/files/60491456/download?download_frd=1)
@@ -35,12 +43,6 @@ Brown University
 
 * **APMA0340: Methods of Applied Mathematics I + II**
   * Teaching Assistant (TA), [Spring 2017](http://www.cfm.brown.edu/people/dobrush/am34/index.html), [Spring 2018](http://www.cfm.brown.edu/people/dobrush/am34/index.html)
-
-* **APMA1650: Statistical Inference I**
-  * Teaching Assistant (TA), [Fall 2017](https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201610&subj_code_in=APMA&crse_numb_in=1650)
-
-* **CSCI1800: Cybersecurity and International Relations**
-  * Teaching Assistant (TA), [Spring 2018](http://cs.brown.edu/courses/csci1800/)
 
 * **BIOL0200: The Foundations of Living Systems**
   * Individual Tutor, [Spring 2017](https://canvas.brown.edu/files/24416687/download?download_frd=1&verifier=75tqAUYq719iDYzwcxOGtUVt5JqPCCN0Thb5Ug58)
