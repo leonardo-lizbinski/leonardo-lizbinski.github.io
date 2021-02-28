@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Leo. 
+Hi I'm Leo. Welcome to my personal website.
