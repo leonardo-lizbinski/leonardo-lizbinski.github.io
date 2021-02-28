@@ -1,13 +1,18 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/
+    
+  - title: "Teaching"
+    url: /teaching/ 
+    
   - title: "Research"
     url: /research/
 
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+   
     
 #   - title: "Portfolio"
 #     url: /portfolio/
@@ -15,8 +20,7 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Education"
-    url: /education/
+
     
 #   - title: "Guide"
 #     url: /markdown/
