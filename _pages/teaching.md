@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 author_profile: true
 redirect_from: 
   - /teaching.html
@@ -9,44 +9,44 @@ redirect_from:
 Brown Medical School
 ======
 * **BIOL6710: Innovation and Entrepreneurship in Modern Medicine**
-  * _FOUNDER and Course Leader, Spring 2021_
+  * FOUNDER and Course Leader, Spring 2021
 
 Yale School of Management
 ======
 * **MGT631: Public Health Entrepreneurship and Intrapreneurship**
-  * _Teaching Fellow (TF), Fall 2019_
+  * Teaching Fellow (TF), Fall 2019
 
 * **MGT505: Intro to Marketing Management**
-  * _Class Captain, Fall 2018_
+  * Class Captain, Fall 2018
 
 Brown University
 ======
 * **ENGN0090: Management of Nonprofit and Industrial Organizations**
-  * _Teaching Assistant (TA), Fall 2016, Fall 2017_
+  * Teaching Assistant (TA), Fall 2016, Fall 2017
 
 * **ENGN0130: Appropriate Technology**
-  * _Teaching Assistant (TA), Fall 2017_
+  * Teaching Assistant (TA), Fall 2017
 
 * **ENGN0930A: The Engineer's Burden: Why Changing the World is Difficult**
-  * _Teaching Assistant (TA), Spring 2017, Spring 2018_
+  * Teaching Assistant (TA), Spring 2017, Spring 2018
 
 * **ENGN0900: Managerial Decision Making**
-  * _Teaching Assistant (TA), Spring 2018_
+  * Teaching Assistant (TA), Spring 2018
 
 * **APMA0340: Methods of Applied Mathematics I + II**
-  * _Teaching Assistant (TA), Spring 2017, Spring 2018_
+  * Teaching Assistant (TA), Spring 2017, Spring 2018
 
 * **APMA1650: Statistical Inference I**
-  * _Teaching Assistant (TA), Fall 2017_
+  * Teaching Assistant (TA), Fall 2017
 
 * **CSCI1800: Cybersecurity and International Relations**
-  * _Teaching Assistant (TA), Spring 2018_
+  * Teaching Assistant (TA), Spring 2018
 
 * **BIOL0200: The Foundations of Living Systems**
-  * _Individual Tutor, Spring 2017_
+  * Individual Tutor, Spring 2017
 
 * **PHYS0040: Basic Physics**
-  * _Individual Tutor, Fall 2017_
+  * Individual Tutor, Fall 2017
 
 
 
