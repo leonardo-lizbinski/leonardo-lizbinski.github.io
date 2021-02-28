@@ -6,6 +6,14 @@ redirect_from:
   - /teaching.html
 ---
 
-Over the past couple of years, I've been a teaching assistant for the following courses:
+Brown Medical School
+======
+* BIOL6710: Innovation and Entrepreneurship in Modern Medicine
+  * FOUNDER and Course Leader, Spring 2021
+  * Faculty Adviser: Martin Weinstock MD PhD
 
-* (Spring 2020, current) Med School
+Yale School of Management
+======
+
+Yale School of Management
+======
